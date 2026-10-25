@@ -3,7 +3,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-nnc82v-dark.svg"><img src="assets/header-nnc82v-light.svg" width="100%" alt="~/ Plipps"></picture>
 
-<a href="https://api.github.com/repos/Plipps45/Ripple"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-bkmpg-ripple-dark.svg"><img src="assets/projects-bkmpg-ripple-light.svg" width="49%" alt="Ripple"></picture></a>
+<a href="https://github.com/Plipps45/Ripple"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects-bkmpg-ripple-dark.svg"><img src="assets/projects-bkmpg-ripple-light.svg" width="49%" alt="Ripple"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-nnc830-dark.svg"><img src="assets/divider-nnc830-light.svg" width="100%" alt=""></picture>
 
